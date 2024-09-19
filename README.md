@@ -42,7 +42,7 @@ Currently, the core implementation of the model is functional, but efforts are o
 
 **Installation**
   Clone the repository:
-  git clone https://github.com/yourusername/human-emotion-recognition.git
+  git clone https://github.com/mkleokhan/human-emotion-recognition.git
   cd human-emotion-recognition
 
 **Install the required dependencies:**
